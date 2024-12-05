@@ -4,7 +4,7 @@ description: Een verzameling video's en tutorials voor Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: 3c615f525f1d589af3220bdd8f2cd40894d8f829
+source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -36,24 +36,24 @@ Adobe Mix Modeler helpt organisaties marketing investeringen te meten, te optima
     </a>
     <div>
       <a href="intro/use-cases.md">
-    <strong>Gebruik hoofdletters</strong>
+    <strong> Gevallen van het Gebruik </strong>
     </a>
     </div>
     <p>
-    <em>Belangrijke gebruiksgevallen van Adobe Mix Modeler leren</em>
+    <em> leer de belangrijkste gebruiksgevallen van Adobe Mix Modeler </em>
     <p>
   </td>
   <td>
-    <a href="intro/user-workflow.md">
-      <img alt="miniatuurafbeelding voor de zelfstudie &apos;Gebruikersworkflow&apos;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    <a href="intro/demo.md">
+      <img alt="miniatuurafbeelding voor de zelfstudie &apos;End-to-end demo&apos;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
-      <a href="intro/user-workflow.md">
-    <strong>Gebruikersworkflow</strong>
+      <a href="intro/demo.md">
+    <strong> demo van begin tot eind </strong>
     </a>
     </div>
     <p>
-    <em>Meer informatie over de basisworkflow van Adobe Mix Modeler</em>
+    <em> zie een demo van begin tot eind van Adobe Mix Modeler </em>
     <p>
   </td>
   <td>
@@ -62,11 +62,11 @@ Adobe Mix Modeler helpt organisaties marketing investeringen te meten, te optima
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
-    <strong>Rondleiding gebruikersinterface</strong>
+    <strong> Rondleiding van het gebruikersinterface </strong>
     </a>
     </div>
     <p>
-    <em>Leer de belangrijkste gebruikersinterfacecomponenten van Adobe Mix Modeler</em>
+    <em> leer de belangrijkste gebruikersinterfacecomponenten van Adobe Mix Modeler </em>
     <p>
   </td>
 </tr>

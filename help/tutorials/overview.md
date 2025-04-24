@@ -1,10 +1,10 @@
 ---
-title: Video's en zelfstudies over Mixxen Modeler
+title: Mix Modeler - video's en zelfstudies
 description: Een verzameling video's en tutorials voor Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
+source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -13,9 +13,9 @@ ht-degree: 12%
 
 # Tutorials voor Mix Modeler
 
-In deze video&#39;s en zelfstudies leert u meer over Adobe Mix Modeler.
+Meer informatie over Adobe Mix Modeler vindt u in deze video&#39;s en zelfstudies.
 
-Adobe Mix Modeler helpt organisaties marketing investeringen te meten, te optimaliseren en te plannen door machine het leren modellen toe te passen die inzicht in de historische en toekomstige invloed van marketing investeringen op belangrijkste bedrijfsdoelstellingen verstrekken.
+Adobe Mix Modeler helpt organisaties om marketinginvesteringen te meten, te optimaliseren en te plannen door modellen voor het leren van machines toe te passen die inzicht verschaffen in de historische en toekomstige impact van marketinginvesteringen op belangrijke bedrijfsdoelstellingen.
 
 
 <div id="recs-overview-body-1"></div>
@@ -30,19 +30,6 @@ Adobe Mix Modeler helpt organisaties marketing investeringen te meten, te optima
 <div id="staff-picks-section">
 <table style="margin-top: 0 !important">
 <tr>
-  <td>
-    <a href="intro/use-cases.md">
-      <img alt="miniatuurafbeelding voor de zelfstudie &apos;Gebruik-gevallen&apos;" src="https://video.tv.adobe.com/v/3424857?format=jpeg" />
-    </a>
-    <div>
-      <a href="intro/use-cases.md">
-    <strong> Gevallen van het Gebruik </strong>
-    </a>
-    </div>
-    <p>
-    <em> leer de belangrijkste gebruiksgevallen van Adobe Mix Modeler </em>
-    <p>
-  </td>
   <td>
     <a href="intro/demo.md">
       <img alt="miniatuurafbeelding voor de zelfstudie &apos;End-to-end demo&apos;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
@@ -70,6 +57,19 @@ Adobe Mix Modeler helpt organisaties marketing investeringen te meten, te optima
     <p>
   </td>
 </tr>
+  <td>
+    <a href="intro/user-workflow.md">
+      <img alt="miniatuurafbeelding voor de zelfstudie &apos;Gebruikersworkflow&apos;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    </a>
+    <div>
+      <a href="intro/user-workflow.md">
+    <strong> het werkschema van de Gebruiker </strong>
+    </a>
+    </div>
+    <p>
+    <em> Leer over het gebruikerswerkschema in Adobe Mix Modeler </em>
+    <p>
+  </td>
 </table>
 
 </div>

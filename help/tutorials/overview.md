@@ -4,7 +4,7 @@ description: Een verzameling video's en tutorials voor Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
+source-git-commit: fcae8d9fd4609b2742ade0a589451a037ca69b71
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -56,7 +56,6 @@ Adobe Mix Modeler helpt organisaties om marketinginvesteringen te meten, te opti
     <em> leer de belangrijkste gebruikersinterfacecomponenten van Adobe Mix Modeler </em>
     <p>
   </td>
-</tr>
   <td>
     <a href="intro/user-workflow.md">
       <img alt="miniatuurafbeelding voor de zelfstudie &apos;Gebruikersworkflow&apos;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
@@ -70,6 +69,7 @@ Adobe Mix Modeler helpt organisaties om marketinginvesteringen te meten, te opti
     <em> Leer over het gebruikerswerkschema in Adobe Mix Modeler </em>
     <p>
   </td>
+</tr>
 </table>
 
 </div>

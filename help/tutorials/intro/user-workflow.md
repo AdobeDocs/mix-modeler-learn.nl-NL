@@ -17,6 +17,6 @@ ht-degree: 23%
 
 # Gebruikersworkflow
 
-Leer het werkschema van Mix Modeler. Voor extra informatie, zie het [&#128279;](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow) documentatie 1&rbrace; van het werkschema van de Mix Modeler 0&rbrace;.
+Leer het werkschema van Mix Modeler. Voor extra informatie, zie het [&#128279;](https://experienceleague.adobe.com/nl/docs/mix-modeler/using/get-started/workflow) documentatie 1&rbrace; van het werkschema van de Mix Modeler 0&rbrace;.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)

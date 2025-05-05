@@ -32,7 +32,7 @@ Adobe Mix Modeler helpt organisaties om marketinginvesteringen te meten, te opti
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="miniatuurafbeelding voor de zelfstudie &apos;End-to-end demo&apos;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="miniatuurafbeelding voor de zelfstudie &apos;End-to-end demo&apos;" src="https://video.tv.adobe.com/v/3440800?format=jpeg&captions=dut" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -45,7 +45,7 @@ Adobe Mix Modeler helpt organisaties om marketinginvesteringen te meten, te opti
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="miniatuurafbeelding voor de video &apos;Gebruikersinterface tour&apos;" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="miniatuurafbeelding voor de video &apos;Gebruikersinterface tour&apos;" src="https://video.tv.adobe.com/v/3452388?format=jpeg&captions=dut" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -58,7 +58,7 @@ Adobe Mix Modeler helpt organisaties om marketinginvesteringen te meten, te opti
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="miniatuurafbeelding voor de zelfstudie &apos;Gebruikersworkflow&apos;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+      <img alt="miniatuurafbeelding voor de zelfstudie &apos;Gebruikersworkflow&apos;" src="https://video.tv.adobe.com/v/3440209?format=jpeg&captions=dut" />
     </a>
     <div>
       <a href="intro/user-workflow.md">

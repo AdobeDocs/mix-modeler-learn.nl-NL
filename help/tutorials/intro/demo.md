@@ -1,6 +1,6 @@
 ---
 title: Mix Modeler end-to-end demo
-description: Leer de end-to-end workflow van Adobe Mix Modeler.
+description: Lees meer over de end-to-end workflow van Adobe Mix Modeler.
 role: Developer, User
 level: Beginner
 doc-type: Value Video
@@ -11,12 +11,12 @@ exl-id: 097a1672-7163-4982-ace4-12d0ab33a622
 source-git-commit: 28f2a40e4b23240a9efc4c5288412b07df72c755
 workflow-type: tm+mt
 source-wordcount: '33'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 
 # Mix Modeler end-to-end demo
 
-Bekijk een end-to-end demo van Adobe Mix Modeler. Voor extra informatie, zie de [ documentatie van Mix Modeler ](https://experienceleague.adobe.com/nl/docs/mix-modeler/using/overview).
+Bekijk een end-to-end demo van Adobe Mix Modeler. Voor extra informatie, zie de [ documentatie van Mix Modeler ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3440800/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)

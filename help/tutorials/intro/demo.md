@@ -19,4 +19,4 @@ ht-degree: 24%
 
 Bekijk een end-to-end demo van Adobe Mix Modeler. Voor extra informatie, zie de [ documentatie van Mix Modeler ](https://experienceleague.adobe.com/nl/docs/mix-modeler/using/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440800/?learn=on&enablevpops&captions=dut)

@@ -19,4 +19,4 @@ ht-degree: 23%
 
 Leer de workflow van Mix Modeler. Voor extra informatie, zie de [&#x200B; het werkschema van Mix Modeler &#x200B;](https://experienceleague.adobe.com/nl/docs/mix-modeler/using/get-started/workflow) documentatie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440209?captions=dut&learn=on&enablevpops)

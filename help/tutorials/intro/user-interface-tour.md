@@ -17,6 +17,6 @@ ht-degree: 28%
 
 # Tour gebruikersinterface
 
-Raadpleeg de belangrijkste functies van Mix Modeler in de gebruikersinterface. Voor extra informatie, zie de [ gids van Adobe Mix Modeler ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
+Raadpleeg de belangrijkste functies van Mix Modeler in de gebruikersinterface. Voor extra informatie, zie de [&#x200B; gids van Adobe Mix Modeler &#x200B;](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)

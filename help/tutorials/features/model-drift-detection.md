@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Modeldriftdetectie
 
-Met de functie voor detectie van verwaaiers van het model in Mix Modeler wordt automatisch verwaaiing op modellen gedetecteerd en wordt u aangeraden onmiddellijk actie te ondernemen of de verwaaiing gedetailleerder te verkennen. Voor meer informatie, zie [ Verdrijving van het Model ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in de documentatie van Mix Modeler.
+Met de functie voor detectie van verwaaiers van het model in Mix Modeler wordt automatisch verwaaiing op modellen gedetecteerd en wordt u aangeraden onmiddellijk actie te ondernemen of de verwaaiing gedetailleerder te verkennen. Voor meer informatie, zie [&#x200B; Verdrijving van het Model &#x200B;](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in de documentatie van Mix Modeler.
 
 >[!SLIDE](model-drift-detection)

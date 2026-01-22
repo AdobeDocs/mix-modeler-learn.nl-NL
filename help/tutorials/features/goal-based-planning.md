@@ -4,9 +4,10 @@ description: Leer hoe u op doelen gebaseerde planning kunt gebruiken in Mix Mode
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
+jira: KT-20157
 hide: true
 hidefromtoc: true
-source-git-commit: 4ec5d535e4a204567ffaaa6035c52c1f484fbffd
+source-git-commit: c875065c55181af3881526e8927e1ad9f2c8cda0
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -16,6 +17,6 @@ ht-degree: 0%
 
 # Op doelstellingen gebaseerde planning
 
-Met de op doel-gebaseerde planningseigenschap in Mix Modeler, kunt u van uw bedrijfsdoelstellingen en niet alleen uw begroting plannen. U kunt uw budgetten op betrouwbare wijze efficiënt toewijzen over kanalen en campagnes om uw doelstellingen te bereiken met het maximale investeringsrendement. Voor meer informatie, zie [&#x200B; Abonnementen &#x200B;](https://experienceleague.adobe.com/nl/docs/mix-modeler/using/plans/overview){target="_blank"} in de documentatie van Mix Modeler.
+Met de op doel-gebaseerde planningseigenschap in Mix Modeler, kunt u van uw bedrijfsdoelstellingen en niet alleen uw begroting plannen. U kunt uw budgetten op betrouwbare wijze efficiënt toewijzen over kanalen en campagnes om uw doelstellingen te bereiken met het maximale investeringsrendement. Voor meer informatie, zie [ Abonnementen ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"} in de documentatie van Mix Modeler.
 
 >[!SLIDE](goal-based-planning)

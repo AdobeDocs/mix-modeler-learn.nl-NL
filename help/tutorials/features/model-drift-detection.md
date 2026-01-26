@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Modeldriftdetectie
 
-Met de functie voor driftdetectie van het Mix Modeler-model worden wijzigingen in de modelprestaties automatisch gedetecteerd en worden gebruikers op de hoogte gesteld. Ze kunnen onmiddellijk actie ondernemen om het model weer optimaal te laten presteren. Voor meer informatie, zie [ Verdrijving van het Model ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in de documentatie van Mix Modeler.
+Met de functie voor driftdetectie van het Mix Modeler-model worden wijzigingen in de modelprestaties automatisch gedetecteerd en worden gebruikers op de hoogte gesteld. Ze kunnen onmiddellijk actie ondernemen om het model weer optimaal te laten presteren. Voor meer informatie, zie [&#x200B; Verdrijving van het Model &#x200B;](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in de documentatie van Mix Modeler.
 
 >[!SLIDE](model-drift-detection)
 

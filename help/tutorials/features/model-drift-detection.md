@@ -7,7 +7,7 @@ doc-type: Value Video
 jira: KT-20158
 hide: true
 hidefromtoc: true
-source-git-commit: 312d2e09d5c83e0f6d78d56bf163171430fb437e
+source-git-commit: 2c4f1d0c95d6bd9d299763b44ed2160142a5abd3
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Modeldriftdetectie
 
-Met de functie voor detectie van verwaaiers van het model in Mix Modeler wordt automatisch verwaaiing op modellen gedetecteerd en wordt u aangeraden onmiddellijk actie te ondernemen of de verwaaiing gedetailleerder te verkennen. Voor meer informatie, zie [&#x200B; Verdrijving van het Model &#x200B;](https://experienceleague.adobe.com/nl/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in de documentatie van Mix Modeler.
+Met de functie voor driftdetectie van het Mix Modeler-model worden wijzigingen in de modelprestaties automatisch gedetecteerd en worden gebruikers op de hoogte gesteld. Ze kunnen onmiddellijk actie ondernemen om het model weer optimaal te laten presteren. Voor meer informatie, zie [ Verdrijving van het Model ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in de documentatie van Mix Modeler.
 
 >[!SLIDE](model-drift-detection)
 
